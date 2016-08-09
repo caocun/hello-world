@@ -1,3 +1,8 @@
-# hello-world
-my first github!
-my name is cao cun.
+#include<iostream>
+using namespace std;
+
+int main()
+{
+  cout<<"hello world!"<<endl;
+   return 0;
+}
